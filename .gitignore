@@ -1,0 +1,14 @@
+# Do not accidentally publish raw identity/security evidence
+raw-evidence/
+private/
+secrets/
+.env
+.env.*
+*.pfx
+*.p12
+*.pem
+*.key
+*.token
+*.log
+.DS_Store
+Thumbs.db
