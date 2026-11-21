@@ -63,7 +63,7 @@ See [Validation matrix](tests/validation-matrix.md) for test objectives, observe
 
 **Offboarding scenario:** A dedicated test account was disabled and sessions revoked. The audit log recorded the administrative operation. Revocation of refresh tokens does **not** guarantee immediate invalidation of every already-issued access token or application-specific session.
 
-## Documentation index
+**Start here for a two-minute overview:** [Recruiter case study](docs/recruiter-brief.md)\n\n## Documentation index
 
 | Resource | Purpose |
 |---|---|
